@@ -1,2 +1,3 @@
 # hello-world
-new start
+Hi Humans!
+I love music!
